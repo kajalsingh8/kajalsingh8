@@ -1,4 +1,3 @@
-[![MasterHead](https://i.pinimg.com/originals/e7/7a/1e/e77a1e25a95370f4f625c115f1622378.gif)]
 
 <h1 align="center">Hi 👋, I'm Kajal Singh</h1>
 <h3 align="center">I am passionate about artificial intelligence and machine learning</h3>
