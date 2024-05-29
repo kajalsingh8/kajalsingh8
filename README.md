@@ -1,9 +1,8 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/e7/7a/1e/e77a1e25a95370f4f625c115f1622378.gif" alt="MasterHead" style="width: 100%; height: auto;" />
 </div>
-
 <h1 align="center">Hi 👋, I'm Kajal Singh</h1>
-<h3 align="center">A passionate about artificial intelligence and machine learning</h3>
+<h3 align="center">I am passionate about artificial intelligence and machine learning</h3>
 
 <table>
   <tr>
