@@ -8,10 +8,10 @@
   <tr>
     <td>
       <ul>
-        <li>👩‍🎓 about me: **I am pursuing Btech In electronics and communication engineering (AI & cybernetics)**</li>
-        <li>🌱 I’m currently learning **AI & ML, python, robotics, VLSI**</li>
-        <li>💬 Ask me about **AI, ML, Robotics, VLSI**</li>
-        <li>📫 How to reach me **kajalsingh1951@gmail.com**</li>
+         <li>👩‍🎓 about me: <strong>I am pursuing Btech In electronics and communication engineering (AI & cybernetics)</strong></li>
+        <li>🌱 I’m currently learning: <strong>AI & ML, python, robotics, VLSI</strong></li>
+        <li>💬 Ask me about: <strong>AI, ML, Robotics, VLSI</strong></li>
+        <li>📫 How to reach me: <strong>kajalsingh1951@gmail.com</strong></li>
       </ul>
     </td>
     <td>
