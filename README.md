@@ -1,7 +1,3 @@
-<div align="center" style="position: relative; width: 80%; height: 300px; overflow: hidden;">
-  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="MasterHead" style="width: auto; height: 100%; object-fit: cover; max-width: none; max-height: none;" />
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white;">
-</div>
 
 
 <h1 align="center">Hi 👋, I'm Kajal Singh</h1>
