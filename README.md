@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Kajal Singh</h1>
-<h3 align="center">I am passionate about artificial intelligence and machine learning</h3>
+<h3 align="center">I am passionate learner </h3>
 
 <table>
   <tr>
