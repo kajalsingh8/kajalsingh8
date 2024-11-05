@@ -8,8 +8,8 @@
     <td>
       <ul>
          <li>👩‍🎓 About me: <strong>I am pursuing Btech In electronics and communication engineering (AI & cybernetics)</strong></li>
-        <li>🌱 I’m currently learning: <strong>AI & ML, python, robotics, VLSI</strong></li>
-        <li>💬 Ask me about: <strong>AI, ML, Robotics, VLSI</strong></li>
+        <li>🌱 I’m currently learning: <strong>Machine learning, python, robotics, Embedded systems</strong></li>
+        <li>💬 Ask me about: <strong>Machine learning Robotics, Embedded systems</strong></li>
         <li>📫 How to reach me: <strong>kajalsingh1951@gmail.com</strong></li>
       </ul>
     </td>
