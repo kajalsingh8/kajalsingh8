@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/kajal-singh-37a029271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kajal-singh-37a029271/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/kajal-singh39/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kajal-singh-37a029271/" height="30" width="40" /></a>
   <a href="https://kaggle.com/kajalsingh65" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kajalsingh65" height="30" width="40" /></a>
   <a href="https://instagram.com/kajal_singh__85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kajal__singh_85" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/kajalsingh09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kajalsingh09" height="30" width="40" /></a>
